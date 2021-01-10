@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+body{
+    background-color: rgb(145, 73, 73);
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
+#mySelect{
+    border: 1px solid rgb(204, 203, 203);
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+.tum{
+    margin-top: 10px;
+    min-height: 60vh;
+    border: 1px solid rgb(204, 203, 203);
+    box-shadow: inset 3px 3px 10px #8b8888;
+    border-radius: 20px;
+    background-color: rgb(218, 218, 218);
+}
+img{
+    border-radius: 20px;
+    box-shadow: 4px 5px 10px #8e8e8e;
+
+}
